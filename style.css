@@ -1,0 +1,81 @@
+body {
+    background-color: #f4f4f4;
+    color: black;
+    position: relative;
+}
+
+main {
+    position: relative;
+   
+}
+
+.made {
+    position: absolute;
+    top: 200px;
+    height: 100px;
+    width: 70px;
+    left: 150px;
+}
+
+.tape {
+    position:absolute;
+    top: 150px;
+    height: 90px;
+    width: 75px;
+    left: 220px;
+    font-size: 35px;
+    font-family:cursive;
+    color: white;
+}
+
+.tape {
+    background-color: hsl(0, 0%, 90%);
+    transition: background-color 300ms;
+}
+
+.take {
+    position: absolute;
+    top: 850px;
+    left: 170px;
+    color: white;
+
+}
+
+.sip {
+    position: relative;
+}
+
+
+
+.love {
+    position: absolute;
+    background-color: #f4f4f4;
+    color: black;
+    font-size:25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 650px;
+    top: -750px;
+}
+
+#my-form {
+    display: flex;
+  }
+  
+
+.group {
+    margin-left: 300px;
+    margin-top: -280px;    
+}
+
+.button {
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}
+
+.text {
+    position: absolute;
+    left: 400px;
+    top: 220px;
+}
